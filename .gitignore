@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+demo/textures
+bundle.js
+*.txt
+*.DS_Store
+*Icon*
+*.gz
+*.jp*g
+*.png
